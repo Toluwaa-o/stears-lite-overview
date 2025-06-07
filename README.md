@@ -1,38 +1,38 @@
-# 📊 Stears Lite – African Company Insights Dashboard
+# Stears Lite – African Company Insights Dashboard
 
 **Stears Lite** is a full-stack dashboard that provides structured, up-to-date insights into African companies. Inspired by [Stears Africa](https://stears.co), this project combines web scraping, caching, and responsive design to deliver company data in a clean and accessible format.
 
 
-## 🔍 Search Interface Preview
+## Search Interface Preview
 
 <p align="center">
   <img src="./assets/stears-lite-search-desktop.png" alt="Stears Lite - Search Desktop View" width="80%" style="margin-bottom: 10px;" />
   <br />
-  <img src="./assets/stears-lite-search-mobile.png" alt="Stears Lite - Search Mobile View" width="40%" />
+  <img src="./assets/stears-lite-search-mobile.jpg" alt="Stears Lite - Search Mobile View" width="40%" />
 </p>
 
 ---
 
-## 🔗 Repositories
+##  Repositories
 
 | Component      | Link                                                                 |
 |----------------|----------------------------------------------------------------------|
-| 🌐 Frontend     | [stears-lite-frontend](https://github.com/Toluwaa-o/stears-lite) |
-| ⚙️ Backend       | [stears-lite-backend](https://github.com/Toluwaa-o/lite-api)   |
+| Frontend     | [stears-lite-frontend](https://github.com/Toluwaa-o/stears-lite) |
+| Backend       | [stears-lite-backend](https://github.com/Toluwaa-o/lite-api)   |
 
 ---
 
-## 🎯 Features
+## Features
 
-- 🔍 Company search interface with instant display
-- 📊 Displays insights such as industry, founding year, country, funding, revenue, and more
-- ⚡ Automatic caching to avoid redundant scraping
-- 🌐 Built with modern, scalable technologies (Next.js + FastAPI)
-- 🧪 MongoDB backend with auto-updated timestamps
+- Company search interface with instant display
+- Displays insights such as industry, founding year, country, funding, revenue, and more
+- Automatic caching to avoid redundant scraping
+- Built with modern, scalable technologies (Next.js + FastAPI)
+- MongoDB backend with auto-updated timestamps
 
 ---
 
-## 🧱 Tech Stack
+## Tech Stack
 
 - **Frontend**: Next.js, Tailwind CSS
 - **Backend**: FastAPI, Pymongo, BeautifulSoup
@@ -41,7 +41,7 @@
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -84,28 +84,28 @@ NEXT_PUBLIC_BACKEND_URL=next_api_url_here
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 <div align="center">
   <img src="./assets/stears-lite-result-desktop.png" alt="Stears Lite - Desktop View" width="80%" style="margin-bottom: 10px;" />
-  <img src="./assets/stears-lite-result-mobile.jpg.png" alt="Stears Lite - Mobile View" width="40%" />
+  <img src="./assets/stears-lite-result-mobile.jpg" alt="Stears Lite - Mobile View" width="40%" />
 </div>
 
 ---
 
-## 🌍 Live Demo
+## Live Demo
 
 [🔗 View Deployed Project](https://stears-lite.vercel.app/)
 
 ---
 
-## 📌 Note
+## Note
 
-> ⚠️ Data is collected via scraping and may not be independently verified. Minor or Major variations from official sources may occur.
+> Data is collected via scraping and may not be independently verified. Minor or Major variations from official sources may occur.
 
 ---
 
-## 📘 Inspiration
+## Inspiration
 
 This project is inspired by [Stears Africa](https://stears.co) and was built to showcase:
 
@@ -116,7 +116,7 @@ This project is inspired by [Stears Africa](https://stears.co) and was built to 
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Built by [Toluwalashe Ogunleye](https://tolu-portfolio.vercel.app/)
 Feel free to connect, fork, or star if you find it useful!
