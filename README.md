@@ -26,6 +26,7 @@
 
 - Company search interface with instant display
 - Displays insights such as industry, founding year, country, funding, revenue, and more
+- Country page with macro economic indicators
 - Automatic caching to avoid redundant scraping
 - Built with modern, scalable technologies (Next.js + FastAPI)
 - MongoDB backend with auto-updated timestamps
@@ -89,6 +90,9 @@ NEXT_PUBLIC_BACKEND_URL=next_api_url_here
 <div align="center">
   <img src="./assets/stears-lite-result-desktop.png" alt="Stears Lite - Desktop View" width="80%" style="margin-bottom: 10px;" />
   <img src="./assets/stears-lite-result-mobile.jpg" alt="Stears Lite - Mobile View" width="40%" />
+
+  <img src="./assets/stears-lite-country-desktop.png" alt="Stears Lite - Desktop View" width="80%" style="margin-bottom: 10px;" />
+  <img src="./assets/stears-lite-country-mobile.jpg" alt="Stears Lite - Mobile View" width="40%" />
 </div>
 
 ---
@@ -119,4 +123,3 @@ This project is inspired by [Stears Africa](https://stears.co) and was built to 
 ## Author
 
 Built by [Toluwalashe Ogunleye](https://tolu-portfolio.vercel.app/)
-Feel free to connect, fork, or star if you find it useful!
